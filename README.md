@@ -3,8 +3,7 @@
 
 ### Hi there 👋
 
-Here are some ideas to get you started:
-- 🌱 I’m currently learning GraphQL
+🌱 I’m currently learning GraphQL and Magento 2
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mo7amad7amdy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mo7amad7amdy" height="20" width="20" /></a>
