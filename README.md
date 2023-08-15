@@ -25,6 +25,7 @@
 
 <br/>  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Mo7amad7amdy&color=blueviolet&style=flat-square)  
 
